@@ -1,3 +1,5 @@
 Hello, Git!
 This is a Git tutorial.
 Adding a new feature.
+Staged change.
+My Changes
